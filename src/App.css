@@ -1,0 +1,12 @@
+body {
+  background-color: #f8f9fa; /* Light background */
+}
+
+h1 {
+  color: #343a40; /* Dark color for heading */
+}
+
+.container {
+  max-width: 1200px; /* Limit the width of the container */
+  margin: auto; /* Center the container */
+}
